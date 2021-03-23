@@ -39,7 +39,9 @@ public class Calculator {
 	public static void br1(int num1){
 	      System.out.println(num1* num1*num1);
 	  }
-	
+	public static void func2(int num1){
+	      System.out.println(num1* num1*num1);
+	  }
 }
 
 
