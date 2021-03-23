@@ -7,6 +7,8 @@ public class Calculator {
 		System.out.println("hello world");
 		System.out.println("Hii GIT HUB!!");
 		System.out.println("Hii GIT HUB1!!");
+		System.out.println("Hii GIT HUB2!!");
+
 
 		add(10,20);
 	}
@@ -19,6 +21,7 @@ public class Calculator {
 	public static void mult(int num1,int num2){
 	      System.out.println(num1*num2);
 	  }
+<<<<<<< HEAD
 	public static void diff(int num1,int num2){
 		System.out.println(num1-num2);
 	}
@@ -26,6 +29,12 @@ public class Calculator {
 	public static void mod(int num1,int num2){
 		System.out.println(num1%num2);
 	}
+=======
+	public static void square(int num1){
+	      System.out.println(num1* num1);
+	  }
+	
+>>>>>>> refs/heads/br1
 }
 
 
