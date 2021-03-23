@@ -6,6 +6,8 @@ public class Calculator {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 		System.out.println("Hii GIT HUB!!");
+		System.out.println("Hii GIT HUB1!!");
+
 		add(10,20);
 	}
 	public static void add(int num1,int num2){
